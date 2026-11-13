@@ -23,7 +23,7 @@ I build AI systems end to end, from the model to the API to the dashboard someon
 
 <br clear="right">
 
-<img src="assets/terminal.svg" width="100%" alt="Terminal: whoami. Yashaswini Dhornala, AI Engineer, MTech in Computer Science at Osmania University, Hyderabad Focus: ML,LLMs and RAG, time-series ML, computer vision. Status: open to AI/ML engineering roles.">
+<img src="assests/terminal.svg" width="100%" alt="Terminal: whoami. Yashaswini Dhornala, AI Engineer, MTech in Computer Science at Osmania University, Hyderabad Focus: ML,LLMs and RAG, time-series ML, computer vision. Status: open to AI/ML engineering roles.">
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt=""></p>
 
