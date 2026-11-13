@@ -15,9 +15,14 @@
 
 <img align="right" width="230" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="">
 
-I build AI systems end to end, from the model to the API to the dashboard someone actually uses. Most of my work sits where ML meets real decisions: forecasting markets, scoring fraud risk, predicting floods.
+AI/ML and Generative AI professional with 4+ years of IT experience, specializing in Python, Machine Learning, and LLM-based applications.
+
+Experienced in building RAG solutions, AI-powered applications, and multi-agent systems using modern GenAI frameworks.
+
+Passionate about developing intelligent, scalable solutions using AI and emerging technologies.
 
 <p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="20" alt=""> &nbsp;4+ Years of IT Experience<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="20" alt=""> &nbsp;MTech and BTech in Computer Science Engineering<br>
 
 
